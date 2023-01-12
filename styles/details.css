@@ -1,0 +1,46 @@
+.details {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    
+}
+.details__booking {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-flow: column wrap;
+}
+.list {
+    border: 1px solid burlywood;
+    width: 48%;
+    padding: 3px;
+    border-radius: 1rem;
+
+}
+h1 {
+    text-align: center;
+}
+.Bookijist {
+    list-style-type:none;
+    border-bottom: 1px dotted burlywood;
+    font-weight: 200;
+}
+
+
+
+
+
+/* .detail--column {
+    flex-basis: 24%;
+    margin: 0 2rem;
+    padding: 1rem;
+    border: 1px dotted goldenrod;
+}
+
+.orders {
+    padding: 1rem;
+    font-size: 1rem;
+    display: flex;
+    justify-content: center;
+    
+} */
